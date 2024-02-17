@@ -3,14 +3,14 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      man: ["Manrope"],
+      pop: ["Poppins"],
     },
     extend: {
       colors: {
-        "light-blue": "#ECF2F8",
-        "dark-gray": "#48556A",
-        "gray": "#6E8098",
-        "light-gray": "#9DAEC2",
+        pink: "#FF7979",
+        green: "#38CC8B",
+        purple: "#5E54A4",
+        gray: "#BAB7D4",
       },
     },
   },
