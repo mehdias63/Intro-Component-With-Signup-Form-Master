@@ -14,7 +14,7 @@ function App() {
           invaluable.
         </p>
       </div>
-      <div className="flex flex-col gap-4 md:py-8">
+      <div className="flex flex-col gap-4 md:mt-16">
         <div className="bg-purple p-5 rounded-xl">
           <p className="text-center text-[0.9375rem] font-bold leading-[1.625rem] tracking-[0.01675rem]">
             Try it free 7 days{" "}
